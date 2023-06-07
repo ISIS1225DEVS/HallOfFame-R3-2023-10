@@ -1,5 +1,5 @@
-#Integrantes
+# Members
 
-1. Nicolas Arango, n.arangor, 202220342, req 3
-2. Miguel Castillo, ms.castillo, 201633992, req 4
-3. Sergio Cuevas, s.cuevas, 202020957, req 5 
+1. Nicolas Arango, req 3
+2. Miguel Castillo, req 4
+3. Sergio Cuevas, req 5 
